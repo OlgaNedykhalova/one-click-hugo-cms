@@ -1,5 +1,5 @@
 ---
-title: What do you call a great chess player?
+title: Who do you call a great chess player?
 subtitle: Come and find out
 image: img/jachymmichal-ovwilf8znf8-unsplash.jpg
 blurb:
