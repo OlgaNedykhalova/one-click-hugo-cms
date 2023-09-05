@@ -4,10 +4,9 @@ subtitle: Come and find out
 image: img/jachymmichal-ovwilf8znf8-unsplash.jpg
 blurb:
   heading: Why  Larvik chess club?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: "Som vanlig når høsten nærmer seg, blir det Larvikmesterskap i langsjakk.
+    Møt opp tirsdag 5.september for første runde, eller gjerne meld dere på selv
+    på TournamentService: https://signup.tournamentservice.com/enroll.aspx..."
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -26,6 +25,11 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: img/372901628_292134056735010_6844059325735854983_n.jpg
+    text: "Som vanlig når høsten nærmer seg, blir det Larvikmesterskap i langsjakk.
+      Møt opp tirsdag 5.september for første runde, eller gjerne meld dere på
+      selv på TournamentService:
+      https://signup.tournamentservice.com/enroll.aspx..."
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
